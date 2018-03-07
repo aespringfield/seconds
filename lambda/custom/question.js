@@ -7,112 +7,145 @@ module.exports = {
      */
     QUESTIONS_EN_GB: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'What is the second largest organ in the human body?': [
+                'Liver',
+                'Heart',
+                'Lungs',
+                'Brain',
+                'Stomach',
+                'Skin',
+                'Small Intestine'
             ],
         },
         {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
+            'What is the second fastest land animal in the world?': [
+                'Pronghorn Antelope',
+                'Greyhound',
+                'Mongolian Wild Ass',
+                'Ostrich',
+                'Cheetah',
+                'Quarter Horse',
+                'Wildebeest',
+            ],
+        },
+        {
+            'By number of native speakers, what is the world\'s second most widely spoken language?': [
+                'Spanish',
+                'Mandarin Chinese',
+                'English',
+                'Arabic',
+                'Russian',
+                'Hindi',
+                'Portuguese',
+
+            ],
+        },
+        {
+            'What is the second most populous state in the US?': [
+                'Texas',
+                'New Jersey',
+                'California',
+                'Illinois',
+                'New York',
+                'Florida',
+                'Pennsylvania',
+            ],
+        },
+        {
+            'What is the second largest US state by land area?': [
+                'Texas',
+                'Alaska',
+                'Montana',
+                'Florida',
+                'California',
                 'Canada',
+                'New Mexico',
+            ],
+        },
+        {
+            'What is the second largest employer in the world?': [
+                'The Chinese People\'s Liberation Army',
+                'The US Department of Defense',
+                'Walmart',
+                'McDonald\'s',
+                'Subway',
+                'The UK\'s National Health Service',
+                'The China National Petroleum Corporation'
+            ],
+        },
+        {
+            'What is the second most popular pizza topping in the US and Canada?': [
+                'Mushrooms',
+                'Pepperoni',
+                'Onions',
+                'Sausage',
+                'Extra cheese',
+                'Black olives',
+                'Pineapple',
+            ],
+        },
+        {
+            'What US holiday inspires the second highest candy sales?': [
+                'Easter',
+                'Halloween',
+                'Christmas',
+                'Valentine\'s Day',
+                'George Washington\'s Birthday',
+            ],
+        },
+        {
+            'What country has the world\'s second highest GDP?': [
+                'China',
+                'The United States',
+                'Japan',
+                'Germany',
+                'The United Kingom',
+                'India',
+                'Brazil',
+            ],
+        },
+        {
+            'What country has the world\'s second highest GDP per capita?': [
+                'Qatar',
+                'Luxembourg',
+                'Singapore',
                 'Norway',
-                'France',
+                'The United Arab Emirates',
+                'Bermuda',
+                'Liechtenstein',
             ],
         },
         {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
+            'What state was the birthplace of the second-highest number of US presidents?': [
+                'Ohio',
+                'Virginia',
+                'New York',
+                'Massachusetts',
+                'Texas',
+                'Illinois',
+                'New Jersey',
             ],
         },
         {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
+            'What is the world\'s second-highest best-selling book series?': [
+                'Goosebumps',
+                'Harry Potter',
+                'Berenstain Bears',
+                'The Chronicles of Narnia',
+                'Sweet Valley High',
+                'Fifty Shades of Grey',
+                'James Bond',
             ],
         },
         {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
-            ],
-        },
-        {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
-            ],
-        },
-        {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
-            ],
-        },
-        {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
-            ],
-        },
-        {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
-            ],
-        },
-        {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
-            ],
-        },
-        {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J K  Rowling',
-            ],
-        },
-        {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
-            ],
-        },
-        {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
+            'What is the second-best-selling novel of all time?': [
+                'A Tale of Two Cities',
+                'Don Quixote',
+                'Twilight',
+                'Harry Potter and the Philosopher\'s Stone',
+                'The Hobbit',
+                'The Little Prince',
+                'The Da Vinci Code',
             ],
         },
         {
